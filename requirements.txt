@@ -12,7 +12,7 @@ flake8==7.3.0
 flake8-black==0.4.0
 flake8-builtins==3.0.0
 flake8_import_order==0.19.2
-fonttools==4.60.1
+fonttools==4.61.0
 importlib_metadata==8.7.0
 importlib_resources==6.5.2
 iniconfig==2.1.0
